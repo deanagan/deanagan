@@ -6,7 +6,7 @@ My ongoing project is my [react app](http://deanagan.github.io/recipes) already 
 
 I also like doing presentations. Here's a [C++ presentation](https://deanagan.github.io/modern-cpp-stl-presentation/#/) I did using revealjs with a little bit of vue js to make it easier to manage. The project includes C++ source code unit tested with gtest and uses Bazel for the build. It is also setup with CI using travis.
 
-I've also got a bit of code snippets and demos on my profile. 
+I've also got a bit of code snippets and demos on my repository. 
 1. [C# Design Patterns](https://github.com/deanagan/csharp-design-patterns). This one's unit tested with xunit, some Moq and has travis-ci setup for awesomeness.
 2. Code Solutions to popular coding sites like LeetCode, Codewars, etc. I have them in my favourite programming languages.
 
