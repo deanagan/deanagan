@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently learning web development and the cloud. 
+- 🔭 I’m currently learning web development and the cloud. Typescript, asp.net, C# and Python are my jam.
 You can access my blog [here](https://deanagan.github.io).
 
 My ongoing project is my [react app](http://deanagan.github.io/recipes) already deployed on my github pages. And my asp.net backend project called [readytogo](https://github.com/deanagan/ready-to-go-backend).
