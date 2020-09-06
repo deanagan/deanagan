@@ -2,6 +2,8 @@
 - 🔭 I’m currently learning web development and the cloud. Typescript, asp.net, C# and Python are my jam.
 You can access my blog [here](https://deanagan.github.io).
 
+My ongoing project is my [react app](http://deanagan.github.io/recipes) already deployed on my github pages. And my asp.net backend project called [readytogo](https://github.com/deanagan/ready-to-go-backend).
+
 I also like doing presentations. Here's a [C++ presentation](https://deanagan.github.io/modern-cpp-stl-presentation/#/) I used Revealjs with a little bit of Vue to make it easier to manage. The project includes C++ source code unit tested with gtest and uses Bazel for the build. It is also setup with CI using travis.
 
 I've also got a few code snippets and demos on my repository. 
