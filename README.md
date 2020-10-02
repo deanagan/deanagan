@@ -7,6 +7,12 @@ I also like doing presentations. Here's a [C++ presentation](https://deanagan.gi
 I've also got a few code snippets and demos on my repository. 
 1. [C# Design Patterns](https://github.com/deanagan/csharp-design-patterns). This one's unit tested with xunit, some Moq and has travis-ci setup for awesomeness.
 2. Code Solutions to popular coding sites like LeetCode, Codewars, etc. I have them in my favourite programming languages.
+    - [C#](https://github.com/deanagan/practice-csharp)
+    - [Dart](https://github.com/deanagan/practice-dart)
+    - [Typescript](https://github.com/deanagan/practice-typescript)
+    - [Python](https://github.com/deanagan/practice-python)
+    - [C++](https://github.com/deanagan/practice-cpp)
+    
 
 Thanks for visiting and hope to collaborate with you in the future!
 
