@@ -4,17 +4,15 @@ You can access my blog [here](https://deanagan.github.io).
 
 I also like doing presentations. Here's a [C++ presentation](https://deanagan.github.io/modern-cpp-stl-presentation/#/) I used Revealjs with a little bit of Vue to make it easier to manage. The project includes C++ source code unit tested with gtest and uses Bazel for the build. It is also setup with CI using travis.
 
-I've also got a few code snippets and demos on my repository. 
+I've also got a few codes and demos on my repository. 
 1. [C# Design Patterns](https://github.com/deanagan/csharp-design-patterns). This one's unit tested with xunit, some Moq and has travis-ci setup for awesomeness.
-2. Code Solutions to popular coding sites like LeetCode, Codewars, etc. I have them in my favourite programming languages.
+2. Test driven coding to some programming puzzles. I've got Github Actions setup on these.
     - [C#](https://github.com/deanagan/practice-csharp)
     - [Dart](https://github.com/deanagan/practice-dart)
     - [Typescript](https://github.com/deanagan/practice-typescript)
     - [Python](https://github.com/deanagan/practice-python)
     - [C++](https://github.com/deanagan/practice-cpp)
     
-
-Thanks for visiting and hope to collaborate with you in the future!
 
 
 Account age: **6** years
