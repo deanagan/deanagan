@@ -12,10 +12,7 @@ I've also got a few codes and demos on my repository.
     - [Typescript](https://github.com/deanagan/practice-typescript)
     - [Python](https://github.com/deanagan/practice-python)
     - [C++](https://github.com/deanagan/practice-cpp)
-    
-
-
-Account age: **{{ ACCOUNT_AGE }}** years
+ 
 
 Top languages used across your repositories:
 
