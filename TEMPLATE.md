@@ -6,7 +6,7 @@ I also like doing presentations. Here's a [C++ presentation](https://deanagan.gi
 
 I've also got a few codes and demos on my repository.
 1. [C# Design Patterns](https://github.com/deanagan/csharp-design-patterns). This one's unit tested with xunit, some Moq and has travis-ci setup for awesomeness.
-2. Test driven coding solutions to some programming puzzles. I've got Github Actions setup on these languages:</br>
+2. Test driven coding solutions to some programming puzzles. I've got Github Actions setup on these languages:
     [![C#](/assets/images/csharp.png)](https://github.com/deanagan/practice-csharp)
     [![Dart](/assets/images/dart.png)](https://github.com/deanagan/practice-dart)
     [![Typescript](/assets/images/typescript.png)](https://github.com/deanagan/practice-typescript)
@@ -16,7 +16,7 @@ I've also got a few codes and demos on my repository.
 
 Top languages used across your repositories:
 
-{{ LANGUAGE_TEMPLATE_START:max=12 }}
+{{ LANGUAGE_TEMPLATE_START:max=8 }}
 ![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
 {{ LANGUAGE_TEMPLATE_END }}
 
