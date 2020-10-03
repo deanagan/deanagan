@@ -7,7 +7,7 @@ I also like doing presentations. Here's a [C++ presentation](https://deanagan.gi
 I've also got a few codes and demos on my repository. 
 1. [C# Design Patterns](https://github.com/deanagan/csharp-design-patterns). This one's unit tested with xunit, some Moq and has travis-ci setup for awesomeness.
 2. Test driven coding to some programming puzzles. I've got Github Actions setup on these.
-    - ![C#](/assets/images/tux.png)(https://github.com/deanagan/practice-csharp)    
+    - [C#](https://github.com/deanagan/practice-csharp)
     - [Dart](https://github.com/deanagan/practice-dart)
     - [Typescript](https://github.com/deanagan/practice-typescript)
     - [Python](https://github.com/deanagan/practice-python)
