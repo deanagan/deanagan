@@ -14,18 +14,10 @@ I've also got a few codes and demos on my repository.
     [![C++](/assets/images/cpp.png)](https://github.com/deanagan/practice-cpp)
 
 
-Top languages used across your repositories:
-
-{{ LANGUAGE_TEMPLATE_START:max=8 }}
-![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
-{{ LANGUAGE_TEMPLATE_END }}
-
-
-
 <center>
   <table>
   <tr>
-      <td><img width="550px" align="left" src="https://github-readme-stats.vercel.app/api?username=deanagan&show_icons=true&hide_border=true&count_private=true&layout=compact" /></td>
+      <!--td><img width="550px" align="left" src="https://github-readme-stats.vercel.app/api?username=deanagan&show_icons=true&hide_border=true&count_private=true&layout=compact" /></td-->
       <td><img width="550px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deanagan&hide=html&layout=compact" /></td>
   </tr>
 </table>
