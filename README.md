@@ -35,6 +35,16 @@ Top languages used across your repositories:
 
 
 
+
+<center>
+  <table>
+  <tr>
+      <td><img width="550px" align="left" src="https://github-readme-stats.vercel.app/api?username=deanagan&show_icons=true&hide_border=true&count_private=true&layout=compact" /></td>
+      <td><img width="550px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deanagan&hide=html&layout=compact" /></td>
+  </tr>
+</table>
+</center>
+
 <!--
 **deanagan/deanagan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
