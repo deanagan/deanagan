@@ -2,7 +2,7 @@
 - 🔭 I’m currently learning web development and the cloud. Typescript, asp.net, C# and Python are my jam.
 You can access my blog [here](https://deanagan.github.io).
 
-I've got some codes and demos on my repository.
+Some of the things I'm working on:
 1. [C# Design Patterns](https://github.com/deanagan/csharp-design-patterns). This one's unit tested with xunit, some Moq and has travis-ci setup for awesomeness.
 2. Test driven coding solutions to some programming puzzles in my favorite programming languages. I've got Github Actions setup on these languages:<br/>
     [![C#](/assets/images/csharp.png)](https://github.com/deanagan/practice-csharp)
