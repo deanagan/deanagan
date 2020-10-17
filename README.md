@@ -9,6 +9,7 @@ Some of the things I'm working on:
     [![Dart](/assets/images/dart.png)](https://github.com/deanagan/practice-dart)
     [![Typescript](/assets/images/typescript.png)](https://github.com/deanagan/practice-typescript)
     [![Python](/assets/images/python.png)](https://github.com/deanagan/practice-python)
+    [![Kotlin](/assets/images/kotlin.png)](https://github.com/deanagan/practice-kotlin)
     [![C++](/assets/images/cpp.png)](https://github.com/deanagan/practice-cpp)
 
 
