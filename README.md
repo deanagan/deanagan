@@ -1,6 +1,4 @@
 ### Hi there 👋
-- 🔭 I’m currently learning web development and the cloud. Typescript, asp.net, C# and Python are my jam.
-You can access my blog [here](https://deanagan.github.io).
 
 Some of the things I'm working on:
 1. [C# Design Patterns](https://github.com/deanagan/csharp-design-patterns). This one's unit tested with xunit, some Moq and has travis-ci setup for awesomeness.
@@ -12,6 +10,12 @@ Some of the things I'm working on:
     <!--[![Kotlin](/assets/images/kotlin.png)](https://github.com/deanagan/practice-kotlin)-->
     [![C++](/assets/images/cpp.png)](https://github.com/deanagan/practice-cpp)
 
+## FAQ
+1. Why does your profile have so much activity? Are you an awesome coder?
+- Short answer, these are tiny code pieces and are in no way a measure of my coding skills (so no, I'm not a ninja/rockstar/unicorn. 😄) Long answer... The activity is showing up as such because I do code katas and language exploration on my free time. I am forever curious about how other programming languages work, in the hopes of gaining some tips on how I could possibly improve my coding skills. Other than that, who doesn't love coding as a crossword puzzle replacement activity?
+
+2. Don't you have a major project or big open source project?
+- Nope. I write a lot of code for my employer, and these are what my free time could afford.
 
 <center>
   <table>
