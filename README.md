@@ -10,7 +10,7 @@ Some of the things I'm working on:
     <!--[![Kotlin](/assets/images/kotlin.png)](https://github.com/deanagan/practice-kotlin)-->
     [![C++](/assets/images/cpp.png)](https://github.com/deanagan/practice-cpp)
 
-These are tiny code pieces and are in no way a measure of my coding skills (so no, I'm not a ninja/rockstar/unicorn. 😄). The activity is showing up as such because I do code katas and language exploration on my free time. I am forever curious about how other programming languages work, in the hopes of gaining some tips on how I could possibly improve my coding skills. Other than that, who doesn't love coding as a crossword puzzle replacement activity?
+These are tiny code pieces and are in no way a measure of my coding skills (so no, I'm not a ninja/rockstar/unicorn. 😄). Most activity (green blocks) come from code katas and language exploration on my free time. I am forever curious about how other programming languages work, in the hopes of gaining some tips on how I could possibly improve my coding skills. Other than that, who doesn't love coding as a crossword puzzle replacement activity?
 
 <center>
   <table>
