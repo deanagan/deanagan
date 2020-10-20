@@ -7,7 +7,7 @@ Some of the things I'm working on:
     [![Dart](/assets/images/dart.png)](https://github.com/deanagan/practice-dart)
     [![Typescript](/assets/images/typescript.png)](https://github.com/deanagan/practice-typescript)
     [![Python](/assets/images/python.png)](https://github.com/deanagan/practice-python)
-    <!--[![Kotlin](/assets/images/kotlin.png)](https://github.com/deanagan/practice-kotlin)-->
+    [![Kotlin](/assets/images/kotlin.png)](https://github.com/deanagan/practice-kotlin)
     [![C++](/assets/images/cpp.png)](https://github.com/deanagan/practice-cpp)
 
 These are tiny code pieces and are in no way a measure of my coding skills. I am forever curious about how other programming languages work, in the hopes of gaining some tips on how I could possibly improve my coding skills. Other than that, who doesn't love coding as a crossword puzzle replacement activity?
