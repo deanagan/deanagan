@@ -13,8 +13,6 @@ Some of the things I'm working on:
 These are tiny code pieces and are in no way a measure of my coding skills. I am forever curious about how other programming languages work, in the hopes of gaining some tips on how I could possibly improve my coding skills. Other than that, who doesn't love coding as a crossword puzzle replacement activity?
 
 
-Finally, do you love Python? I do! Come join us at [checkio.org](https://py.checkio.org) where you get to solve some fun programming puzzles. 
-If you'd like, follow me there. My username is [kunkka71](https://py.checkio.org/user/kunkka71)
 <center>
   <table>
   <tr>
