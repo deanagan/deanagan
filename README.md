@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Some of the things I'm working on:
-1. [C# Design Patterns](https://github.com/deanagan/csharp-design-patterns). Unit tested with xunit, some Moq and Github Actions and TravisCI setup.
+1. [C# Design Patterns](https://github.com/deanagan/csharp-design-patterns). Unit tested with xunit, some Moq and Github Actions.
 2. [React Learning Playground](https://react-learning-dagan.netlify.app) This project is a hybrid slide and code sandbox for learning react.
 3. [Modern C++ and STL](https://deanagan.github.io/modern-cpp-stl-presentation) This project is written in Vuejs(-ish) where I created a slide about C++.
 4. Test driven coding solutions to some programming puzzles in my various programming languages. I've got Github Actions setup on these languages:<br/>
