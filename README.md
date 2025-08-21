@@ -5,12 +5,12 @@ Some of the things I'm working on:
 2. [React Learning Playground](https://react-learning-dagan.netlify.app) This project is a hybrid slide and code sandbox for learning react.
 3. [Modern C++ and STL](https://deanagan.github.io/modern-cpp-stl-presentation) This project is written in Vuejs(-ish) where I created a slide about C++.
 4. Test driven coding solutions to some programming puzzles in my various programming languages. I've got Github Actions setup on these languages:<br/>
-    [![C#](/assets/images/csharp.png)](https://github.com/deanagan/practice-csharp)
-    [![Dart](/assets/images/dart.png)](https://github.com/deanagan/practice-dart)
-    [![Typescript](/assets/images/typescript.png)](https://github.com/deanagan/practice-typescript)
-    [![Python](/assets/images/python.png)](https://github.com/deanagan/practice-python)
-    [![Kotlin](/assets/images/kotlin.png)](https://github.com/deanagan/practice-kotlin)
-    [![C++](/assets/images/cpp.png)](https://github.com/deanagan/practice-cpp)
+    [![C#](/assets/images/csharp.png){:width="32px"}](https://github.com/deanagan/practice-csharp)
+    [![Dart](/assets/images/dart.png){:width="32px"}](https://github.com/deanagan/practice-dart)
+    [![Typescript](/assets/images/typescript.png){:width="32px"}](https://github.com/deanagan/practice-typescript)
+    [![Python](/assets/images/python.png){:width="32px"}](https://github.com/deanagan/practice-python)
+    [![Kotlin](/assets/images/kotlin.png){:width="32px"}](https://github.com/deanagan/practice-kotlin)
+    [![C++](/assets/images/cpp.png){:width="32px"}](https://github.com/deanagan/practice-cpp)
 
 
 
